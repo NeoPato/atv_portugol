@@ -1,6 +1,6 @@
 inclua biblioteca Matematica --> m
 
-Variável peso, altura: real 
+Variável peso, altura, resultado, imc: real 
 
 inicio
 
