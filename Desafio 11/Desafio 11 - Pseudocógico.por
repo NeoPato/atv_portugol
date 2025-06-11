@@ -1,10 +1,10 @@
-Variável n1, i: inteiro 
+Variável n, i: inteiro 
 
 inicio
 
-    leia(n1)
+    leia(n)
 
-    para i = 1; i < n1+1; i++ então;
+    para i = 1; i < n+1; i++ então;
 
       escreva(n*i)
     
