@@ -5,9 +5,6 @@ Variável dias = 365, mes = 12, ano_atual = c.ano_atual(): const inteiro
 Variável ano_nasc, idade, calculo_dias, calculo_mes, calculo_semanas: inteiro
 
 inicio
-
-    
-  funcao inicio() {
     
     leia(ano_nasc)
 
