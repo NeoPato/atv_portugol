@@ -4,7 +4,7 @@ inicio
 
     leia(n)
 
-    para i = 1; i < n+1; i++ então;
+    para i = 1; i < 11; i++ então;
 
       escreva(n*i)
     
