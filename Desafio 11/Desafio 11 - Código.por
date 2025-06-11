@@ -1,12 +1,12 @@
 programa {
   funcao inicio() {
-    inteiro n1
+    inteiro n
 
     escreva("Digite número para fazer a multiplicação: ")
-    leia(n1)
+    leia(n)
 
-    para(inteiro i = 1; i < n1+1; i++){
-      escreva(n1," * ",i," = ",n1 * i,"\n")
+    para(inteiro i = 1; i < 11; i++){
+      escreva(n," * ",i," = ",n * i,"\n")
     }
   }
 }
