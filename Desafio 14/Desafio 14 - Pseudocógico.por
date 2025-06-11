@@ -7,8 +7,8 @@ inicio
     leia(peso)
     leia(altura)
 
-    real resultado = peso / (altura * altura)
-    real imc = m.arredondar(resultado, 2)
+    resultado = peso / (altura * altura)
+    imc = m.arredondar(resultado, 2)
 
     se imc <= 18.5 então;
       escreva("Abaixo do peso ideal.")
