@@ -9,7 +9,7 @@ programa {
     escreva("Digite o segundo valor lógico (verdadeiro ou falso): ")
     leia(entrada_2)
 
-   se(entrada_1 == entrada_2){
+   se(entrada_1 == 1 e entrada_2 == 1){
       escreva("Resultado da operação lógica AND: ", 1, "\n")
    }
     senao{
